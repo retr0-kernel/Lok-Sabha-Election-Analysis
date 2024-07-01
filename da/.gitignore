@@ -1,1 +1,20 @@
-.\site_packages
+/data/
+/output/
+/Lib/
+/pyenv.cfg
+
+/share/
+
+# Scripts (optionally ignore if you want to version control them)
+# /Scripts/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Operating system files
+.DS_Store
+Thumbs.db
